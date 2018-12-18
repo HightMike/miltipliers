@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7553aea9-e306-4a66-a6c4-5e125349ba06" name="Default Changelist" comment="" />
+    <list default="true" id="7553aea9-e306-4a66-a6c4-5e125349ba06" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_base" beforeDir="false" afterPath="$PROJECT_DIR$/../java_base" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,14 +50,22 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="938245656">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/filter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+            <state relative-caret-position="932">
+              <caret line="141" selection-start-line="141" selection-end-line="141" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,6 +82,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -78,19 +92,20 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1387" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="20" />
     <option name="y" value="8" />
     <option name="width" value="1346" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,10 +168,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1387" y="8" width="1346" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="0" width="1368" height="741" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29815102" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2977273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -175,6 +188,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info active="true" anchor="right" id="Kotoed" visible="true" weight="0.14242424" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -218,8 +232,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/filter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="141" lean-forward="true" selection-start-line="141" selection-end-line="141" />
+        <state relative-caret-position="932">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
